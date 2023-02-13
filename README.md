@@ -53,6 +53,6 @@ Los siguientes comandos:
 
 ```
 git fetch upstream
-git rebase upstream/master
+git merge upstream/master
 git push
 ```
